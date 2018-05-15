@@ -1,0 +1,16 @@
+{
+  "name": "salesforce-web2-case",
+  "version": "1.0.0",
+  "description": "Salesforce Hackday Micro-services",
+  "author": "Jong Lee",
+  "license": "Apache-2.0",
+  "repository": "github:jonglee/salesforce-web2case-docker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1",
+    "path": "^0.12.7"
+  }
+}
